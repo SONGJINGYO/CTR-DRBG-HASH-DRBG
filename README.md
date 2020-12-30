@@ -1,2 +1,2 @@
 # CTR-DRBG-HASH-DRBG
-CTR-DRBG, HASH-DRBG
+ARIA, SHA-256을 이용한 CTR-DRBG, HASH-DRBG의 정확성 검증 테스트 구현입니다.
